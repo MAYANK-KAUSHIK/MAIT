@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MAIT</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_overview">overview</string>
+    <string name="large_text">
+        Maharaja Agrasen Institute of Technology (MAIT) is a public–private partnership engineering college, located in New Delhi, India.
+        MAIT has 10 departments (Five-Engineering, Four-Research and Three-Auxiliary).
+        It is affiliated to the Guru Gobind Singh Indraprastha University.Maharaja Agrasen Institute of Technology (MAIT) is a public–private partnership engineering college, located in New Delhi, India. MAIT has 10 departments (Five-Engineering, Four-Research and Three-Auxiliary). It is affiliated to the Guru Gobind Singh Indraprastha University.\n\n"
+     The MAIT campus is located in Rohini Sector-22, North Delhi, spread over an area of 40.5 acres (164,000 m2).
+
+The campus has 12 blocks namely:
+
+Block 1: Aryabhatt Block: For Computer Science Engineering (CSE) Department
+Block 2: Brahmgupt Block : For Mechanical and Automation Engineering(MAE) Department
+Block 3: Dr. C.V. Raman Block: For Law Department
+Block 4: Guru Dronacharya Block: For Electronics and Communication Engineering(ECE) Department
+Block 5: For BBA and MBA (MAIMS) Department
+Block 6: Mahatma Gandhi Block: For Electronics and Electrical Engineering (EEE) Department
+Block 7: Subhash Chandra Bose Block: For BJMC Department
+Block 8: Rabindra Nath Tagore Block: For Information Technology(IT) Department
+Block 9: Ram Gopal Verma Block: For 1st year B.Tech. students (common)
+Administrative Block
+Library
+Main Auditorium: The auditorium is near by entrance gate. There is also mini-auditorium in the campus."
+        "
+    </string>
+</resources>
